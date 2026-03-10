@@ -5,8 +5,8 @@
 // @author       Black0S
 // @match        https://www.youtube.com/watch*
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/Black0S/Youtube-Loop-UserScript-/refs/heads/main/youtube-loop.js
-// @downloadURL  https://raw.githubusercontent.com/Black0S/Youtube-Loop-UserScript-/refs/heads/main/youtube-loop.js
+// @updateURL    https://raw.githubusercontent.com/Black0S/Youtube-Loop-UserScript/refs/heads/main/youtube-loop.js
+// @downloadURL  https://raw.githubusercontent.com/Black0S/Youtube-Loop-UserScript/refs/heads/main/youtube-loop.js
 // @grant        GM_xmlhttpRequest
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
@@ -737,7 +737,7 @@
   // ─────────────────────────────────────────────────────────────────────────────
 
   const CURRENT_VERSION  = '1.0.0';
-  const RAW_SCRIPT_URL   = 'https://raw.githubusercontent.com/Black0S/Youtube-Loop-UserScript-/refs/heads/main/youtube-loop.js';
+  const RAW_SCRIPT_URL   = 'https://raw.githubusercontent.com/Black0S/Youtube-Loop-UserScript/refs/heads/main/youtube-loop.js';
 
   /**
    * Compares two semver strings (e.g. "1.0.0" vs "1.1.0").
