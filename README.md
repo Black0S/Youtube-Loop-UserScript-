@@ -34,7 +34,7 @@ A userscript manager installed in your browser. Recommended options:
 
 | Manager | Browsers | Link |
 |---|---|---|
-| **ScriptCat** ⭐ | Chrome, Firefox, Edge | [scriptcat.org](https://scriptcat.org/en-US/) |
+| **ScriptCat** ⭐ | Chrome, Firefox, Edge | [scriptcat.org](https://docs.scriptcat.org/en/) |
 | Tampermonkey | Chrome, Firefox, Edge, Safari | [tampermonkey.net](https://www.tampermonkey.net/) |
 | Violentmonkey | Chrome, Firefox, Edge | [violentmonkey.github.io](https://violentmonkey.github.io/) |
 
