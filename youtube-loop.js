@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube A/B Loop
-// @version      2.0.0
+// @version      1.0.0
 // @description  A/B loop — native YouTube player integration
 // @author       Black0S
 // @match        https://www.youtube.com/watch*
@@ -736,7 +736,7 @@
   //  Uses GM_xmlhttpRequest to bypass cross-origin restrictions.
   // ─────────────────────────────────────────────────────────────────────────────
 
-  const CURRENT_VERSION  = '2.0.0';
+  const CURRENT_VERSION  = '1.0.0';
   const RAW_SCRIPT_URL   = 'https://raw.githubusercontent.com/Black0S/Youtube-Loop-UserScript-/refs/heads/main/youtube-loop.js';
 
   /**
